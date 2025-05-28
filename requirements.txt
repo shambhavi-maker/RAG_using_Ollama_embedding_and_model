@@ -1,0 +1,15 @@
+langchain 
+torch 
+transformers 
+sentence-transformers 
+chromadb
+CSVLoader
+accelerate
+bitsandbytes
+huggingface_hub
+tiktoken
+python-dotenv
+langchain-community
+langchain-ollama
+hf_xet
+beautifulsoup4
