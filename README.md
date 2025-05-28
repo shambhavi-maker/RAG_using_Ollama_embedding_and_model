@@ -120,5 +120,8 @@ For detailed benchmarking results, refer to [Ollama LLM Model Evaluation & Bench
 - [ChromaDB](https://www.trychroma.com/)
 - [LangChain Documentation](https://python.langchain.com/)
 
+## 📜 License  
+This project is licensed under the **MIT License**.
+
 Feel free to contribute! 🚀😊
 
